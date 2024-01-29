@@ -1,0 +1,8 @@
+# ninja log v5
+6	484	7171791788777563	CMakeFiles/YandexInterWeekOfferContest.dir/TaskA.cpp.obj	50a6049cd41a4785
+15	826	7171791792178340	CMakeFiles/YandexInterWeekOfferContest.dir/TaskE.cpp.obj	f29cb3e17609ebc3
+10	600	7171791789927860	CMakeFiles/YandexInterWeekOfferContest.dir/TaskC.cpp.obj	8f8f4f17435fd17
+3	601	7171852719040928	CMakeFiles/YandexInterWeekOfferContest.dir/TaskD.cpp.obj	8805b47653ced471
+3	549	7171823845589450	CMakeFiles/YandexInterWeekOfferContest.dir/TaskB.cpp.obj	336f994668f27005
+602	718	7171852720191186	YandexInterWeekOfferContest.exe	d736251782f4bbd5
+1	190	7172639975365844	build.ninja	843851fa4c40c4f2

@@ -1,0 +1,3 @@
+C:/Coding_Projects/C++/TinkoffJavaCourseContest/TaskB/cmake-build-debug/CMakeFiles/TaskB.dir
+C:/Coding_Projects/C++/TinkoffJavaCourseContest/TaskB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding_Projects/C++/TinkoffJavaCourseContest/TaskB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

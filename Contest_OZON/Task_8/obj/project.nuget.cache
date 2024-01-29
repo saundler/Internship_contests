@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJnq8hjEv4DBhpjXFhGY6krQGp1kwERDTRknOwSb5oobbcHayy9ZTVre9JmPtepFNKDP4sZc7oJCowXmqvzovg==",
+  "success": true,
+  "projectFilePath": "C:\\Coding_Projects\\Contests\\Contest_OZON\\Task_8\\Task_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

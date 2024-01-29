@@ -1,0 +1,3 @@
+C:/Users/aktan/CLionProjects/YandexInterWeekOfferContest/cmake-build-debug/CMakeFiles/YandexInterWeekOfferContest.dir
+C:/Users/aktan/CLionProjects/YandexInterWeekOfferContest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aktan/CLionProjects/YandexInterWeekOfferContest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+C:\Coding_Projects\C#\Contests\Contest_OZON_2\TaskA\bin\Debug\TaskA.exe
+C:\Coding_Projects\C#\Contests\Contest_OZON_2\TaskA\bin\Debug\TaskA.pdb
+C:\Coding_Projects\C#\Contests\Contest_OZON_2\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+C:\Coding_Projects\C#\Contests\Contest_OZON_2\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\C#\Contests\Contest_OZON_2\TaskA\obj\Debug\TaskA.exe
+C:\Coding_Projects\C#\Contests\Contest_OZON_2\TaskA\obj\Debug\TaskA.pdb
