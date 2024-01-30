@@ -1,0 +1,15 @@
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\bin\Debug\net8.0\TaskC.exe
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\bin\Debug\net8.0\TaskC.deps.json
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\bin\Debug\net8.0\TaskC.runtimeconfig.json
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\bin\Debug\net8.0\TaskC.dll
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\bin\Debug\net8.0\TaskC.pdb
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.GeneratedMSBuildEditorConfig.editorconfig
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.AssemblyInfoInputs.cache
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.AssemblyInfo.cs
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.csproj.CoreCompileInputs.cache
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.sourcelink.json
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.dll
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\refint\TaskC.dll
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.pdb
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\TaskC.genruntimeconfig.cache
+C:\se\prj\repo\Internship_contests\Contest_OZON-2\TaskC\obj\Debug\net8.0\ref\TaskC.dll
